@@ -8,7 +8,7 @@ Before using this program, ensure that you have prepared your audit reports usin
 
 1. **Lynis Report Converter**  
    - Repository: [lynis-report-converter](https://github.com/d4t4king/lynis-report-converter)  
-   - This tool converts the raw Lynis audit report (typically a `.dat` file) into JSON format.
+   - This tool converts the raw Lynis audit report (a `.dat` file) into JSON format.
 
 2. **OpenSCAP Report Converter**  
    - Repository: [openscap-report](https://github.com/OpenSCAP/openscap-report)  
