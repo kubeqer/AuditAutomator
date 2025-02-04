@@ -50,4 +50,4 @@ The project is designed to automate the entire audit process. It performs the fo
 Execute the provided shell script (audit.sh) to collect audit data from a remote machine, download the raw reports, and convert them to JSON.
 
 - **Process and Generate the PDF Audit Report:**
-Once the JSON reports are generated, run the main Python program (for example, python full_pipeline.py) to process the audit data, compute comparisons, store the results in the database, and generate a final PDF report.
+Once the JSON reports are generated, run the main Python program (main.py) to process the audit data, compute comparisons, store the results in the database, and generate a final PDF report.
